@@ -26,3 +26,9 @@
 ```
 
 ## 使用方式
+
+```shell
+ go get -u github.com/Guo-Chenxu/go-zero-nacos
+```
+
+具体例子请看 [nacos-demo](https://github.com/Guo-Chenxu/go-zero-demo/tree/main/nacos-demo)
